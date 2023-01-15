@@ -10,8 +10,12 @@ Healthchecks from Thor's infrastructure.
 
 ## thorandrew.com
 
+Healthchecks for the main server.
+
+![vultr server backup badge](https://healthchecks.io/badge/a8f7959b-8e3c-4998-8a60-cdadc7/VibgCtvW-2/VultrServerBackups.svg)
+
 ## lifeofalec.com
 
 Healthchecks for Alec's server.
 
-![alec backup badge](https://healthchecks.io/badge/a8f7959b-8e3c-4998-8a60-cdadc7/2hYKlykE-2/backup-alec-server-to-thor-server.svg)
+![alec backup badge]( https://healthchecks.io/badge/a8f7959b-8e3c-4998-8a60-cdadc7/6ywWae9V-2/AlecBackups.svg)

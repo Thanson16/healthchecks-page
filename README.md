@@ -11,7 +11,9 @@ Healthchecks for the main server.
 
 Healthchecks from Thor's infrastructure.
 
-![system backup badge](https://healthchecks.io/badge/a8f7959b-8e3c-4998-8a60-cdadc7/1l03Zu7P-2/ThorBackups.svg)
+| Description    | Status                                                                                                          |
+|----------------|-----------------------------------------------------------------------------------------------------------------|
+| Daily backups. | ![system backup badge](https://healthchecks.io/badge/a8f7959b-8e3c-4998-8a60-cdadc7/1l03Zu7P-2/ThorBackups.svg) |
 
 ## Alec's Server  ![badge](https://healthchecks.io/badge/a8f7959b-8e3c-4998-8a60-cdadc7/gNxHtOi6-2/AlecServerOnline.svg)
 

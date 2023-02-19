@@ -15,10 +15,11 @@ Healthchecks for the main server.
 
 Healthchecks for Thor's infrastructure.
 
-| Description   | Status                                                                                                          |
-|---------------|-----------------------------------------------------------------------------------------------------------------|
-| Server online | ![badge](https://healthchecks.io/badge/a8f7959b-8e3c-4998-8a60-cdadc7/3WmOxE7K-2/ThorServerOnline.svg)          |
-| Daily backups | ![system backup badge](https://healthchecks.io/badge/a8f7959b-8e3c-4998-8a60-cdadc7/1l03Zu7P-2/ThorBackups.svg) |
+| Description   | Status                                                                                                                |
+|---------------|-----------------------------------------------------------------------------------------------------------------------|
+| Server online | ![badge](https://healthchecks.io/badge/a8f7959b-8e3c-4998-8a60-cdadc7/3WmOxE7K-2/ThorServerOnline.svg)                |
+| Daily backups | ![system backup badge](https://healthchecks.io/badge/a8f7959b-8e3c-4998-8a60-cdadc7/1l03Zu7P-2/ThorBackups.svg)       |
+| Matrix Server | ![matrix server badge]( https://healthchecks.io/badge/a8f7959b-8e3c-4998-8a60-cdadc7/L1yzd7rF-2/ThorMatrixOnline.svg) |
 
 ## Alec's Server 
 

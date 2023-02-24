@@ -31,3 +31,4 @@ Healthchecks for Alec's server.
 | Server online    | ![badge](https://healthchecks.io/badge/a8f7959b-8e3c-4998-8a60-cdadc7/gNxHtOi6-2/AlecServerOnline.svg)                       |
 | Daily backups    | ![alec backup badge](https://healthchecks.io/badge/a8f7959b-8e3c-4998-8a60-cdadc7/6ywWae9V-2/AlecBackups.svg)                |
 | Matrix Server    | ![alec matrix badge](https://healthchecks.io/badge/a8f7959b-8e3c-4998-8a60-cdadc7/lGrjy5SR-2/AlecMatrixOnline.svg)           |
+| Nextcloud Server | ![alec nextcloud badge](https://healthchecks.io/badge/a8f7959b-8e3c-4998-8a60-cdadc7/O0VnLLkc-2/AlecNextcloudOnline.svg)     |
